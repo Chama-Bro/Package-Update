@@ -11,7 +11,7 @@ This Tool You Can Use Your Termux Packages Update &amp; Install
 
 >`pkg install python -y`
 
->`git clone https://github.com/DaVe-Smith-89/Bomb-Master`
+>`git clone https://github.com/Chama-Bro/Package-Update.git`
 
 >`cd Package-Update`
 
