@@ -19,6 +19,6 @@ This Tool You Can Use Your Termux Packages Update &amp; Install
 
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
-<a href="https://youtube.com/channel/UCBTjgxyNMhbEcW1_f_cZ-ng"><img src="IMG-20220112-WA0004.jpg"></a>
+<a href="https://youtube.com/channel/UCBTjgxyNMhbEcW1_f_cZ-ng">Tap to Subscribe my youtube channel</a>
 
 <br>
