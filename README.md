@@ -3,7 +3,7 @@ This Tool You Can Use Your Termux Packages Update &amp; Install
 
 ### Coded By Chama Bro
 
-<a href="https://github.com/Chama-Bro"><img src="IMG_20210509_185120_415.jpg"></a>
+<a href="https://github.com/Chama-Bro"><img src="IMG-20220112-WA0004.jpg"></a>
 
 ## Command list 👇
 
@@ -19,6 +19,6 @@ This Tool You Can Use Your Termux Packages Update &amp; Install
 
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
-<a href="https://youtube.com/channel/UCBTjgxyNMhbEcW1_f_cZ-ng"><img src="400086900718_114430.jpg"></a>
+<a href="https://youtube.com/channel/UCBTjgxyNMhbEcW1_f_cZ-ng"><img src="IMG-20220112-WA0004.jpg"></a>
 
 <br>
