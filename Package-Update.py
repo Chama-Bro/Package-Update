@@ -4,9 +4,9 @@ import os
 from time import sleep
 from sys import stdout
 
-y=("   ")
-p=("                          ")
-x=("                             ")
+y=("  ")
+p=("                         ")
+x=("                            ")
 sp=("")
 
 print (y,"____            _                     _   _           _       _")
